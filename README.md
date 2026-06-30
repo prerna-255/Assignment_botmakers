@@ -14,11 +14,7 @@ A pixel-perfect and responsive frontend implementation of the provided Figma des
 
 ---
 
-## 📸 Preview
 
-> *(Optional: Add screenshots of your application here.)*
-
----
 
 # ✨ Features
 
